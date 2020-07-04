@@ -8,23 +8,26 @@ about the what and when of new python features
 
 
 ### python 3.5
-- ATTENTION: you cannot use type annotations for variables yet; instead use type comments
+- **ATTENTION**: you cannot use type annotations for variables yet; instead use type comments
 
 
 ### python 3.6
 - type annotations for variables
+([PEP 526](https://www.python.org/dev/peps/pep-0526/))
 - f-strings
+([PEP 498](https://www.python.org/dev/peps/pep-0498/))
 
 
 ### python 3.7
-- `from __future__ import annotations` ( Postponed Evaluation of Annotations )
-https://www.python.org/dev/peps/pep-0563/
+- postponed evaluation of annotations via `from __future__ import annotations`
+([PEP 563](https://www.python.org/dev/peps/pep-0563/))
+
 - sort order of dicts is now guaranteed
 
 
 ### python 3.8
 - the walrus operator
-https://www.python.org/dev/peps/pep-0572/
+([PEP 572](https://www.python.org/dev/peps/pep-0572/))
 
 
 ### python 3.9
@@ -32,15 +35,16 @@ https://www.python.org/dev/peps/pep-0572/
 
 
 ### python 3.10
-- no more `from __future__ import annotations` necessary
-https://www.python.org/dev/peps/pep-0563/
+- `from __future__ import annotations` is no longer necessary
+([PEP 563](https://www.python.org/dev/peps/pep-0563/))
+
 
 
 ## official changelog
 
 Do you need all the nitty gritty details?
 
-Here we go: https://docs.python.org/3/whatsnew/changelog.html
+- [official changelog](https://docs.python.org/3/whatsnew/changelog.html)
 
 
 ## contributing
