@@ -24,6 +24,9 @@ about the what and when of new python features
 
 - sort order of dicts is now guaranteed
 
+- introduction of `breakpoint`, additionally to `import pdb;pdb.set_trace()`
+([PEP 553](https://www.python.org/dev/peps/pep-0553/))
+
 
 ### python 3.8
 - the walrus operator
