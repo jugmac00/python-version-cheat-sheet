@@ -7,6 +7,11 @@ about the what and when of new python features
 - type annotations
 
 
+## python 3.4
+- **pathlib**
+([PEP 428](https://www.python.org/dev/peps/pep-0428/))
+
+
 ### python 3.5
 - **ATTENTION**: you cannot use type annotations for variables yet; instead use type comments
 
