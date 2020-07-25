@@ -19,6 +19,8 @@ about the what and when of new python features
 ([PEP 526](https://www.python.org/dev/peps/pep-0526/))
 - f-strings
 ([PEP 498](https://www.python.org/dev/peps/pep-0498/))
+- introduction of **underscores in numeric literals**, e.g. `1_000`
+([PEP 515](https://www.python.org/dev/peps/pep-0515/))
 
 
 ### python 3.7
