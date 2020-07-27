@@ -17,7 +17,7 @@ about the what and when of new python features
 ### python 3.6
 - introduction of **type annotations** for variables
 ([PEP 526](https://www.python.org/dev/peps/pep-0526/))
-- f-strings
+- **f-strings**
 ([PEP 498](https://www.python.org/dev/peps/pep-0498/))
 - introduction of **underscores in numeric literals**, e.g. `1_000`
 ([PEP 515](https://www.python.org/dev/peps/pep-0515/))
