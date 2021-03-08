@@ -31,7 +31,7 @@ about the what and when of new python features
 - **postponed evaluation of annotations** via `from __future__ import annotations`
 ([PEP 563](https://www.python.org/dev/peps/pep-0563/))
 - **sort order of dicts** is now guaranteed
-- introduction of **breakpoint**, additionally to `import pdb;pdb.set_trace()`
+- introduction of  `breakpoint()`, additionally to `import pdb;pdb.set_trace()`
 ([PEP 553](https://www.python.org/dev/peps/pep-0553/))
 - introduction of **data classes**
 ([PEP 557](https://www.python.org/dev/peps/pep-0557/))
