@@ -4,7 +4,7 @@ about the what and when of new python features
 ## overview
 
 ## python 3.0
-- introduce **Extended Iterable Unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
+- introduction of **Extended Iterable Unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
 ([PEP 3132](https://www.python.org/dev/peps/pep-3132/))
 
 ## python 3.4
