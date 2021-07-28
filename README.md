@@ -47,10 +47,12 @@ about the what and when of new python features
 ([PEP 585](https://www.python.org/dev/peps/pep-0585/))
 
 ### python 3.10
-- **postponed evaluation of type annotations**, that means `from __future__ import annotations` is no longer necessary
-([PEP 563](https://www.python.org/dev/peps/pep-0563/))
 - introduction of **Structural Pattern Matching**, which is a kind of switch/case on steroids
 ([PEP 622](https://www.python.org/dev/peps/pep-0622/))
+
+### python 3.11
+- **postponed evaluation of type annotations**, that means `from __future__ import annotations` is no longer necessary
+([PEP 563](https://www.python.org/dev/peps/pep-0563/))
 
 
 ## official changelog
