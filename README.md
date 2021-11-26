@@ -47,6 +47,8 @@ about the what and when of new python features
 ([PEP 585](https://www.python.org/dev/peps/pep-0585/))
 
 ### python 3.10
+- allow writing union types as X | Y
+([PEP 604](https://www.python.org/dev/peps/pep-0604/))
 - introduction of **Structural Pattern Matching**, which is a kind of switch/case on steroids
 ([PEP 622](https://www.python.org/dev/peps/pep-0622/))
 
