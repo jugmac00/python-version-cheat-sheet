@@ -13,7 +13,7 @@ about the what and when of new python features
 
 ### python 3.3
 - introduction of **yield from**
-([PEP380])(https://peps.python.org/pep-0380/)
+([PEP380](https://peps.python.org/pep-0380/))
 
 ### python 3.5
 - introduction of **type annotations**
