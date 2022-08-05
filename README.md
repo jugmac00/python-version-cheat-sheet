@@ -7,19 +7,18 @@ about the what and when of new python features
 - introduction of **Extended Iterable Unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
 ([PEP 3132](https://www.python.org/dev/peps/pep-3132/))
 
-### python 3.4
-- introduction of **pathlib**
-([PEP 428](https://www.python.org/dev/peps/pep-0428/))
-
 ### python 3.3
 - introduction of **yield from**
 ([PEP380](https://peps.python.org/pep-0380/))
+
+### python 3.4
+- introduction of **pathlib**
+([PEP 428](https://www.python.org/dev/peps/pep-0428/))
 
 ### python 3.5
 - introduction of **type annotations**
 ([PEP 484](https://www.python.org/dev/peps/pep-0484/))
 - **ATTENTION**: you cannot use **type annotations** for variables yet; instead use type comments
-
 
 ### python 3.6
 - introduction of **type annotations** for variables
@@ -28,7 +27,6 @@ about the what and when of new python features
 ([PEP 498](https://www.python.org/dev/peps/pep-0498/))
 - introduction of **underscores in numeric literals**, e.g. `1_000`
 ([PEP 515](https://www.python.org/dev/peps/pep-0515/))
-
 
 ### python 3.7
 - **postponed evaluation of annotations** via `from __future__ import annotations`
@@ -39,11 +37,9 @@ about the what and when of new python features
 - introduction of **data classes**
 ([PEP 557](https://www.python.org/dev/peps/pep-0557/))
 
-
 ### python 3.8
 - introduction of the **walrus operator**
 ([PEP 572](https://www.python.org/dev/peps/pep-0572/))
-
 
 ### python 3.9
 - **builtin generic types**, that means you can use `list` and `dict` for type annotations, instead of importing e.g. `from typing import List`
