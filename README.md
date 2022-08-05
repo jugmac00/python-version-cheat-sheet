@@ -3,14 +3,17 @@ about the what and when of new python features
 
 ## overview
 
-## python 3.0
+### python 3.0
 - introduction of **Extended Iterable Unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
 ([PEP 3132](https://www.python.org/dev/peps/pep-3132/))
 
-## python 3.4
+### python 3.4
 - introduction of **pathlib**
 ([PEP 428](https://www.python.org/dev/peps/pep-0428/))
 
+### python 3.3
+- introduction of **yield from**
+([PEP380])(https://peps.python.org/pep-0380/)
 
 ### python 3.5
 - introduction of **type annotations**
