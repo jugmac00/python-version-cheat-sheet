@@ -55,6 +55,8 @@ about the what and when of new python features
 - **postponed evaluation of type annotations**, that means `from __future__ import annotations` is no longer necessary
 ([PEP 563](https://www.python.org/dev/peps/pep-0563/))
 
+- **exception groups and except\***, a new standard to raise and handle multiple unrelated exceptions simultaneously
+([PEP654](https://peps.python.org/pep-0654/))
 
 ## official changelog
 
