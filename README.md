@@ -4,7 +4,7 @@ about the what and when of new python features
 ## overview
 
 ### python 3.0
-- introduction of **Extended Iterable Unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
+- introduction of **extended iterable unpacking** which enables e.g. `a, *b, c = [1, 2, 3, 4, 5]` so `b` becomes `[2, 3, 4]`
 ([PEP 3132](https://www.python.org/dev/peps/pep-3132/))
 
 ### python 3.3
@@ -48,13 +48,12 @@ about the what and when of new python features
 ### python 3.10
 - allow writing union types as X | Y
 ([PEP 604](https://www.python.org/dev/peps/pep-0604/))
-- introduction of **Structural Pattern Matching**, which is a kind of switch/case on steroids
+- introduction of **structural pattern matching**, which is a kind of switch/case on steroids
 ([PEP 622](https://www.python.org/dev/peps/pep-0622/))
 
 ### python 3.11
 - **postponed evaluation of type annotations**, that means `from __future__ import annotations` is no longer necessary
 ([PEP 563](https://www.python.org/dev/peps/pep-0563/))
-
 - **exception groups and except\***, a new standard to raise and handle multiple unrelated exceptions simultaneously
 ([PEP654](https://peps.python.org/pep-0654/))
 
