@@ -19,6 +19,8 @@ about the what and when of new python features
 - introduction of **type annotations**
 ([PEP 484](https://www.python.org/dev/peps/pep-0484/))
 - **ATTENTION**: you cannot use **type annotations** for variables yet; instead use type comments
+- introduction of **additional unpacking generalizations**
+([PEP 448](https://peps.python.org/pep-0448/))
 
 ### python 3.6
 - introduction of **type annotations** for variables
